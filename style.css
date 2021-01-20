@@ -23,3 +23,20 @@
 .red {
     background-color: red;
 }
+
+.checker {
+    margin: 10px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+
+.red-checker {
+    
+    background-color: #ffcccb;
+}
+
+.black-checker {
+    background-color: #696666;
+
+}
