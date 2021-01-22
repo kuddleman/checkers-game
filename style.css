@@ -1,11 +1,4 @@
-.row {
-   
-    /* display: flex;
-    justify-content: space-evenly;
- */
- /* width: 850px;
- height: 800px; */
-}
+
 
 
 .cell {
@@ -39,4 +32,8 @@
 .black-checker {
     background-color: #696666;
 
+}
+
+.hidden {
+    display: none;
 }
